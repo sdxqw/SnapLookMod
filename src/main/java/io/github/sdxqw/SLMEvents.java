@@ -6,7 +6,7 @@ import net.minecraftforge.fml.common.gameevent.TickEvent;
 
 public class SLMEvents {
 
-    public boolean backCam = false;;
+    public boolean backCam = false;
 
     @SubscribeEvent
     public void onClientTick(TickEvent.ClientTickEvent event) {
