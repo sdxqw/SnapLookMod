@@ -5,7 +5,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.github.asbyth:ForgeGradle:6f53277'
+        classpath "com.github.asbyth:ForgeGradle:6f53277"
     }
 }
 
@@ -18,8 +18,8 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 apply plugin: 'com.github.johnrengelman.shadow'
 
 group 'io,github.sdxqw'
-version '1.8.9'
-archivesBaseName = "Forge"
+version '1.8.9-0.1'
+archivesBaseName = "SnapLookMod"
 
 sourceCompatibility = targetCompatibility = JavaVersion.VERSION_1_8
 compileJava.options.encoding = 'UTF-8'
