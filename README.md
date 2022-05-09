@@ -3,7 +3,7 @@
   <a href="https://github.com/sdxqw/SnapLookMod">SnapLookMod</a>
 </h1>
 
-<h4 align="center">A mod from the famous lunar clinet!</h4>
+<h4 align="center">A mod from the famous lunar client!</h4>
 
 <div align="center">
     <img src="https://img.shields.io/github/last-commit/sdxqw/SnapLookMod" alt="GitHub last commit"/>
